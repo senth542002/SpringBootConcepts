@@ -1,0 +1,9 @@
+package com.learn.spring.springactuator.health;
+
+import org.springframework.boot.actuate.autoconfigure.health.HealthIndicatorAutoConfiguration;
+import org.springframework.stereotype.Component;
+
+@Component
+public class MaxMemoryHealthIndicator extends HealthIndicatorAutoConfiguration{
+
+}

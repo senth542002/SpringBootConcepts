@@ -1,0 +1,5 @@
+package com.lear.spring.springactuator.configuration;
+
+public class ActuatorSecurity extends WebSecurityConfiguerAdapter {
+
+}

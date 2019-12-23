@@ -1,0 +1,12 @@
+package com.learn.spring.springactuator.service;
+
+import org.springframework.stereotype.Service;
+
+@Service
+public class TodoService {
+
+	private TodoListConverter todoListConverter;
+	private TodoRepository todoRepository;
+	
+	
+}

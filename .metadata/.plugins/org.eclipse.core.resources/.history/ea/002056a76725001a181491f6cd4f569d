@@ -1,7 +1,0 @@
-package com.learn.spring.springactuator.repository;
-
-import com.learn.spring.springactuator.model.TodoList;
-
-public class TodoRepository extends CrudRepository<TodoList, Long>{
-
-}

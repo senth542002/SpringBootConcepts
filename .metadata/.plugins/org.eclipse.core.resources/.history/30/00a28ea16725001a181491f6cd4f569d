@@ -1,5 +1,0 @@
-package com.learn.spring.springactuator.repository;
-
-public class TodoRepository {
-
-}
